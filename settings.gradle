@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GroomingIdentifier"
+rootProject.name = "ChatApp"
 include ':app'

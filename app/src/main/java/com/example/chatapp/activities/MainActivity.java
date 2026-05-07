@@ -1,4 +1,4 @@
-package com.example.groomingidentifier.activities;
+package com.example.chatapp.activities;
 
 import android.app.Activity;
 

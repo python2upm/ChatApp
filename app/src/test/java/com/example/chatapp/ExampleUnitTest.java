@@ -1,4 +1,4 @@
-package com.example.groomingidentifier;
+package com.example.chatapp;
 
 import org.junit.Test;
 

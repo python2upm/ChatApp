@@ -1,11 +1,11 @@
-package com.example.groomingidentifier.activities;
+package com.example.chatapp.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.groomingidentifier.databinding.ActivitySignInBinding;
+import com.example.chatapp.databinding.ActivitySignInBinding;
 
 public class SignInActivity extends AppCompatActivity {
 

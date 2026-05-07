@@ -1,4 +1,4 @@
-package com.example.groomingidentifier.firebase;
+package com.example.chatapp.firebase;
 
 import androidx.annotation.NonNull;
 
