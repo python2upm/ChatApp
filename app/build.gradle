@@ -32,6 +32,12 @@ android {
         targetCompatibility JavaVersion.VERSION_11
     }
 
+    java {
+        toolchain {
+            languageVersion = JavaLanguageVersion.of(23)
+        }
+    }
+
     buildFeatures {
         viewBinding true
     }
@@ -42,6 +48,7 @@ dependencies {
     implementation libs.appcompat
     implementation libs.constraintlayout
     implementation libs.firebase.firestore
+    implementation libs.firebase.inappmessaging.display
     implementation libs.material
 
 
