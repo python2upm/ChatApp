@@ -17,3 +17,8 @@ Install and run `app-release.apk` requires Android 5.0 or higher
 ![demo](image.png)
 
 ## How To Use
+1. Download the `google-services.json` file from your Firebase project.
+
+2. Place it inside your app’s `app/` directory in Android Studio.
+
+3. Sync Gradle to apply Firebase settings.
