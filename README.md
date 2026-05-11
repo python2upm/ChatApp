@@ -10,6 +10,10 @@ An Android-based conversation application built using Java in Android Studio, wi
 6. User Availability
 
 ## Demo
+[![Download](https://img.shields.io/badge/Download-v1.0.0-blue?style=flat-square)](https://github.com/zilitye/ChatApp/releases/download/v1.0.0/app-release.apk)
+
+Install and run `app-release.apk` requires Android 5.0 or higher
+
 ![demo](image.png)
 
 ## How To Use
