@@ -34,16 +34,16 @@ Install and run `app-release.apk` requires Android 5.0 or higher
 
 8. Replace the placeholder `service_account.json` file with the one you downloaded. Add `./` before filename
 
-9. Install required packages 
+9. Run the command npm install to install the necessary modules.
 
 ```
 npm install google-auth-library
 ```
 
-10. Run the script
+10. Run the script with node index.js to generate the authorization token.
 
 ```
 node index.js
 ```
 
-11. Copy the Firebase access token and paste into `Constants.java`
+11. Paste Firebase access token into `Constants.java`
