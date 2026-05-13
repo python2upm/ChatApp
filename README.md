@@ -36,10 +36,14 @@ Install and run `app-release.apk` requires Android 5.0 or higher
 
 9. Install required packages 
 
-```npm install google-auth-library```
+```
+npm install google-auth-library
+```
 
 10. Run the script
 
-```node index.js```
+```
+node index.js
+```
 
 11. Copy the Firebase access token and paste into `Constants.java`
