@@ -30,7 +30,7 @@ Install and run `app-release.apk` requires Android 5.0 or higher
 
 6. Place `google-services.json` it inside your app’s `app/` directory in Android Studio.
 
-7. [Download Node Js Project for generate Authorization token](https://file.preptm.com/Content//editor/firebase-node-project.zip)
+7. Download [Node Js Project](https://file.preptm.com/Content//editor/firebase-node-project.zip) for generate Authorization token
 
 8. Replace the placeholder `service_account.json` file with the one you downloaded. Add `./` before filename
 
